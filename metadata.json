@@ -1,0 +1,10 @@
+{
+  "description": "show power usage in watts",
+  "name": "Whatage?",
+  "shell-version": [
+    "43"
+  ],
+  "url": "",
+  "uuid": "whatage@cptmo.dev",
+  "version": 1
+}
