@@ -2,9 +2,9 @@
   "description": "show power usage in watts",
   "name": "Whatage?",
   "shell-version": [
-    "43"
+    "43", "44"
   ],
-  "url": "",
+  "url": "https://cptmo.dev",
   "uuid": "whatage@cptmo.dev",
   "version": 1
 }
